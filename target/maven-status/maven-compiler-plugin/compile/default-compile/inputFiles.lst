@@ -1,0 +1,13 @@
+D:\Project\easyRuleDemo\src\main\java\com\example\easyruledemo\stateMachine\state\TaskStateEnum.java
+D:\Project\easyRuleDemo\src\main\java\com\example\easyruledemo\easyrule\constant\TaskActionEnum.java
+D:\Project\easyRuleDemo\src\main\java\com\example\easyruledemo\easyrule\rules\TaskStatusRule.java
+D:\Project\easyRuleDemo\src\main\java\com\example\easyruledemo\exception\BusinessException.java
+D:\Project\easyRuleDemo\src\main\java\com\example\easyruledemo\easyrule\TaskRuleEngine.java
+D:\Project\easyRuleDemo\src\main\java\com\example\easyruledemo\stateMachine\TaskAction.java
+D:\Project\easyRuleDemo\src\main\java\com\example\easyruledemo\easyrule\listener\MyRulesEngineListener.java
+D:\Project\easyRuleDemo\src\main\java\com\example\easyruledemo\stateMachine\StateMachineRegister.java
+D:\Project\easyRuleDemo\src\main\java\com\example\easyruledemo\easyrule\constant\TaskStatusEnum.java
+D:\Project\easyRuleDemo\src\main\java\com\example\easyruledemo\easyrule\listener\StatusRuleListener.java
+D:\Project\easyRuleDemo\src\main\java\com\example\easyruledemo\EasyRuleDemoApplication.java
+D:\Project\easyRuleDemo\src\main\java\com\example\easyruledemo\entity\Task.java
+D:\Project\easyRuleDemo\src\main\java\com\example\easyruledemo\stateMachine\event\TaskEventEnum.java
